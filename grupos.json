@@ -1,119 +1,1622 @@
 [
   {
-    "nombre": "amistad",
-    "enlace": "https://t.me/+XSJDdjdjkksfk",
-    "email": "pedritofrjrti001@gmail.com",
-    "descripcion": "grupo para pasarla bien, charlar y conocer gente nueva. Todos son bienvenidos, la idea es pasarla bien y sumar amigos",
-    "etiquetas": "amistad, hacer amigos, chat, conocer gente, diversión, comunidad, conversar",
+    "nombre": "fútbol y más",
+    "enlace": "https://t.me/+ymv8OlyC5RFlZGEx",
+    "email": "luciasosa126@gmail.com",
+    "descripcion": "grupo para hablar de fútbol, ver partidos juntos y debatir sobre tus equipos favoritos",
+    "etiquetas": "fútbol, deporte, partidos, equipos, liga, champions",
     "adultos": true,
     "cualquier_pais": true
   },
   {
-    "nombre": "gamers unidos",
-    "enlace": "https://t.me/+HTKEdjdjkksfk",
-    "email": "pedritofrjrti002@gmail.com",
-    "descripcion": "comunidad gamer para hablar de videojuegos, armar equipos, compartir clips y pasar el rato",
-    "etiquetas": "gaming, videojuegos, esports, streaming, discord, pc gamer, consolas",
+    "nombre": "conocer gente nueva",
+    "enlace": "https://t.me/+hjIXLrkypqUwMGJh",
+    "email": "teresamartinez@gmail.com",
+    "descripcion": "espacio para conocer personas de todo el mundo, hacer amigos y charlar sin límites",
+    "etiquetas": "conocer gente, amigos, chat, comunidad, latinoamérica, diversión",
     "adultos": true,
     "cualquier_pais": true
   },
   {
-    "nombre": "chat libre",
-    "enlace": "https://t.me/+HSJDmnopkksfk",
-    "email": "pedritofrjrti003@gmail.com",
-    "descripcion": "espacio de chat libre para conocer gente, hablar de lo que quieras y hacer amigos sin filtros",
-    "etiquetas": "chat, conversar, amigos, conocer gente, comunidad, diversión",
+    "nombre": "free fire squad",
+    "enlace": "https://t.me/+ASyuhFa9RFMzNzEx",
+    "email": "lucia812@gmail.com",
+    "descripcion": "grupo para armar equipo en free fire, compartir tips y mejorar juntos en el juego",
+    "etiquetas": "free fire, gaming, squad, battle royale, móvil, ranked",
     "adultos": true,
     "cualquier_pais": true
   },
   {
-    "nombre": "musica y mas",
-    "enlace": "https://t.me/+HSJDdjdjwxyzk",
-    "email": "pedritofrjrti004@gmail.com",
-    "descripcion": "grupo para compartir música, recomendaciones, artistas favoritos y charlar de todo un poco",
-    "etiquetas": "música, canciones, artistas, playlists, conciertos, entretenimiento",
+    "nombre": "series y películas",
+    "enlace": "https://t.me/+hri78gt5t2hjNzVh",
+    "email": "lauraramirez236@gmail.com",
+    "descripcion": "para recomendar y hablar de series, películas, estrenos y lo mejor de las plataformas",
+    "etiquetas": "series, películas, netflix, streaming, estrenos, cine",
     "adultos": true,
     "cualquier_pais": true
   },
   {
-    "nombre": "peliculas y series",
-    "enlace": "https://t.me/+QRSTdjdjkksfk",
-    "email": "pedritofrjrti005@gmail.com",
-    "descripcion": "para hablar de películas, series, recomendaciones y estrenos con gente que le gusta lo mismo",
-    "etiquetas": "películas, series, cine, netflix, recomendaciones, estrenos",
+    "nombre": "reggaeton puro",
+    "enlace": "https://t.me/+C1FSk9_G4nk3YTg5",
+    "email": "oscar988@gmail.com",
+    "descripcion": "lo mejor del reggaeton nuevo y viejo, para compartir canciones y hablar de tus artistas favoritos",
+    "etiquetas": "reggaeton, música urbana, bad bunny, perreo, latina, trap",
     "adultos": true,
     "cualquier_pais": true
   },
   {
-    "nombre": "anime club",
-    "enlace": "https://t.me/+HSABdjdjkksfk",
-    "email": "pedritofrjrti006@gmail.com",
-    "descripcion": "comunidad de anime y manga, para compartir recomendaciones, teorías y hablar de tus series favoritas",
-    "etiquetas": "anime, manga, otaku, cosplay, japon, series animadas",
+    "nombre": "anime y manga",
+    "enlace": "https://t.me/+UmZ8dgG9P9lhZTYx",
+    "email": "camiladiaz608@gmail.com",
+    "descripcion": "comunidad otaku para hablar de anime, manga, recomendaciones y los estrenos de la temporada",
+    "etiquetas": "anime, manga, otaku, japón, cosplay, temporada",
     "adultos": true,
     "cualquier_pais": true
   },
   {
-    "nombre": "tecnologia hoy",
-    "enlace": "https://t.me/+HSJDdjEFkksfk",
-    "email": "pedritofrjrti007@gmail.com",
-    "descripcion": "grupo para hablar de tecnología, novedades, gadgets, programación y todo lo relacionado",
-    "etiquetas": "tecnología, programación, gadgets, informática, software, hardware",
+    "nombre": "tech y gadgets",
+    "enlace": "https://t.me/+ndvxnU1GpZgzYzVh",
+    "email": "noeliasoto@gmail.com",
+    "descripcion": "para los amantes de la tecnología, gadgets, celulares, computadoras y novedades del mundo tech",
+    "etiquetas": "tecnología, gadgets, celulares, android, apple, programación",
     "adultos": true,
     "cualquier_pais": true
   },
   {
-    "nombre": "deportes fanaticos",
-    "enlace": "https://t.me/+HSJDdjdjGHsfk",
-    "email": "pedritofrjrti008@gmail.com",
-    "descripcion": "grupo para los fanáticos del deporte, fútbol y demás, comentar partidos y compartir resultados",
-    "etiquetas": "deportes, fútbol, partidos, resultados, equipos, hinchas",
+    "nombre": "memes de todo",
+    "enlace": "https://t.me/+XgsOI1RWX8M5ODc5",
+    "email": "carlos542@gmail.com",
+    "descripcion": "el mejor humor y memes latinos, para reírte y compartir contenido gracioso con todos",
+    "etiquetas": "memes, humor, risas, viral, contenido, entretenimiento",
     "adultos": true,
     "cualquier_pais": true
   },
   {
-    "nombre": "arte y dibujo",
-    "enlace": "https://t.me/+IJKLdjdjkksfk",
-    "email": "pedritofrjrti009@gmail.com",
-    "descripcion": "espacio para compartir dibujos, arte digital, técnicas y crecer en comunidad como artistas",
-    "etiquetas": "arte, dibujo, ilustración, arte digital, creatividad, diseño",
+    "nombre": "arte digital",
+    "enlace": "https://t.me/+QZhSWeWnzJI3YjQx",
+    "email": "lopezhector879@gmail.com",
+    "descripcion": "espacio para compartir arte digital, ilustraciones, diseño y aprender entre artistas de todos los niveles",
+    "etiquetas": "arte, dibujo, ilustración, diseño, creatividad, digital",
     "adultos": true,
     "cualquier_pais": true
   },
   {
-    "nombre": "memes diarios",
-    "enlace": "https://t.me/+HSJDMNdjkksfk",
-    "email": "pedritofrjrti010@gmail.com",
-    "descripcion": "el mejor contenido de memes y humor diario, para reírte un rato y pasarla bien",
-    "etiquetas": "memes, humor, risa, contenido, entretenimiento, diversión",
+    "nombre": "viajes y aventuras",
+    "enlace": "https://t.me/+3dsY6JtpMWs3YjBh",
+    "email": "camila680@gmail.com",
+    "descripcion": "para viajeros que quieren compartir destinos, tips, fotos y conectar con gente que ama explorar",
+    "etiquetas": "viajes, turismo, mochileros, aventura, destinos, vacaciones",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "fotografía creativa",
+    "enlace": "https://t.me/+d_p5wMRPjmE2NzU5",
+    "email": "martinezclaudia787@gmail.com",
+    "descripcion": "comunidad para compartir fotos, técnicas de edición y aprender fotografía entre aficionados y profesionales",
+    "etiquetas": "fotografía, fotos, edición, lightroom, cámara, visual",
     "adultos": true,
     "cualquier_pais": true
   },
   {
-    "nombre": "fotografia",
-    "enlace": "https://t.me/+HSJDdjdjOPsfk",
-    "email": "pedritofrjrti011@gmail.com",
-    "descripcion": "grupo para compartir fotos, técnicas de fotografía, edición y consejos entre aficionados",
-    "etiquetas": "fotografía, fotos, edición, cámara, aficionados, arte visual",
+    "nombre": "inglés fácil",
+    "enlace": "https://t.me/+ywxUAgQi9lxmOTQx",
+    "email": "victorgomez461@gmail.com",
+    "descripcion": "grupo para practicar inglés, compartir recursos, ejercicios y aprender juntos de manera dinámica",
+    "etiquetas": "inglés, idiomas, aprender, estudiar, vocabulario, gramática",
     "adultos": true,
     "cualquier_pais": true
   },
   {
-    "nombre": "viajeros",
-    "enlace": "https://t.me/+HSJDdjdjkkUVk",
-    "email": "pedritofrjrti012@gmail.com",
-    "descripcion": "comunidad de viajeros para compartir experiencias, destinos, tips y planear viajes juntos",
-    "etiquetas": "viajes, turismo, destinos, mochileros, aventura, vacaciones",
+    "nombre": "productividad personal",
+    "enlace": "https://t.me/+gdcJVTJtGCUzYTUx",
+    "email": "lopezmarcos404@gmail.com",
+    "descripcion": "grupo para compartir hábitos, rutinas, libros y tips de desarrollo personal y productividad",
+    "etiquetas": "productividad, hábitos, desarrollo personal, motivación, metas, libros",
     "adultos": true,
     "cualquier_pais": true
   },
   {
-    "nombre": "aprender ingles",
-    "enlace": "https://t.me/+WXYZdjdjkksfk",
-    "email": "pedritofrjrti013@gmail.com",
-    "descripcion": "grupo para practicar y aprender inglés, compartir recursos y ayudarse entre todos",
-    "etiquetas": "inglés, idiomas, aprender, estudio, práctica, educación",
+    "nombre": "kpop lovers",
+    "enlace": "https://t.me/+PpHcGa5fff1kZmUx",
+    "email": "marcossosa@gmail.com",
+    "descripcion": "comunidad kpop para fans de bts, blackpink y todos los grupos, compartir noticias y fanarts",
+    "etiquetas": "kpop, bts, blackpink, army, kpoper, corea",
     "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "minecraft survival",
+    "enlace": "https://t.me/+hc9JWbhYf7o4ZWUx",
+    "email": "camila805@gmail.com",
+    "descripcion": "para jugadores de minecraft que quieren armar servidores, compartir builds y jugar en modo survival",
+    "etiquetas": "minecraft, survival, builds, servidor, bedrock, java",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "emprendedores latinos",
+    "enlace": "https://t.me/+xcJs7yjHrCoyMzQx",
+    "email": "anarodriguez@gmail.com",
+    "descripcion": "espacio para emprendedores que quieren crecer, compartir ideas, estrategias y apoyarse mutuamente",
+    "etiquetas": "emprendimiento, negocios, startups, marketing, ingresos, ideas",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "bachata y salsa",
+    "enlace": "https://t.me/+hDIYyovL5j0wN2Rh",
+    "email": "migueltorres@gmail.com",
+    "descripcion": "para los amantes del baile, bachata, salsa y música latina, compartir videos y eventos",
+    "etiquetas": "bachata, salsa, baile, latinos, música, eventos",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "gta v online",
+    "enlace": "https://t.me/+Kwmf2sh1DlFmZGMx",
+    "email": "raulrodriguez@gmail.com",
+    "descripcion": "grupo para jugadores de gta online, misiones, carreras, actividades y armar sesiones juntos",
+    "etiquetas": "gta, gta5, online, rockstar, gaming, misiones",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "bookclub latino",
+    "enlace": "https://t.me/+js-fPrY_zs8zZWQx",
+    "email": "blancopatricia317@gmail.com",
+    "descripcion": "club de lectura para amantes de los libros, compartir recomendaciones, reseñas y charlar de literatura",
+    "etiquetas": "libros, lectura, literatura, novelas, reseñas, bookclub",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "trap y hip hop",
+    "enlace": "https://t.me/+zPW70iS_eWE4ODMx",
+    "email": "lopezmaria782@gmail.com",
+    "descripcion": "comunidad de trap, hip hop y freestyle para compartir música, letras y apoyar artistas emergentes",
+    "etiquetas": "trap, hiphop, rap, freestyle, urbano, letras",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "mascotas y animales",
+    "enlace": "https://t.me/+TblUaUMFQbNjZmRh",
+    "email": "valentinagomez@gmail.com",
+    "descripcion": "para los que aman a los animales, compartir fotos de mascotas, tips de cuidado y historias lindas",
+    "etiquetas": "mascotas, perros, gatos, animales, veterinaria, cuidado",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "cocina latina",
+    "enlace": "https://t.me/+A-rLaeUCPrlkMjgx",
+    "email": "molinalucia810@gmail.com",
+    "descripcion": "grupo para compartir recetas, tips de cocina y los mejores platos de la gastronomía latina",
+    "etiquetas": "cocina, recetas, gastronomía, comida latina, chef, platos",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "psicología y bienestar",
+    "enlace": "https://t.me/+XDi9jsPR8WJhNmJh",
+    "email": "raulmartinez@gmail.com",
+    "descripcion": "espacio seguro para hablar de salud mental, bienestar emocional, autoestima y crecimiento interior",
+    "etiquetas": "psicología, salud mental, bienestar, autoestima, emociones, terapia",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "diseño gráfico",
+    "enlace": "https://t.me/+0F5Wth4aJvc4YWVh",
+    "email": "sosairene453@gmail.com",
+    "descripcion": "comunidad de diseñadores gráficos para compartir trabajos, recursos, tutoriales y oportunidades laborales",
+    "etiquetas": "diseño gráfico, photoshop, illustrator, branding, logos, creatividad",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "astrofísica y ciencia",
+    "enlace": "https://t.me/+FGp_ZMrPjIwyZjIx",
+    "email": "sofia507@gmail.com",
+    "descripcion": "para los curiosos del universo, física, astronomía y ciencia en general, aprender y debatir juntos",
+    "etiquetas": "ciencia, astronomía, física, universo, espacio, conocimiento",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "yoga y meditación",
+    "enlace": "https://t.me/+Zy8bh31mx7g3YzRh",
+    "email": "hectortorres578@gmail.com",
+    "descripcion": "grupo para practicantes de yoga, meditación y mindfulness, compartir rutinas y experiencias de bienestar",
+    "etiquetas": "yoga, meditación, mindfulness, bienestar, relajación, salud",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "fortnite latam",
+    "enlace": "https://t.me/+_hViJQgnT7Q5MTdh",
+    "email": "pabloflores27@gmail.com",
+    "descripcion": "comunidad de fortnite para armar squads, compartir estrategias, skins y lo último del juego",
+    "etiquetas": "fortnite, battle royale, squad, epic games, temporada, gaming",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "marketing digital",
+    "enlace": "https://t.me/+sgP8RUJVtcsxZmEx",
+    "email": "torresgonzalo76@gmail.com",
+    "descripcion": "grupo para profesionales y aprendices del marketing digital, redes sociales, seo y publicidad online",
+    "etiquetas": "marketing, redes sociales, seo, publicidad, digital, estrategia",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "electrónica y dj",
+    "enlace": "https://t.me/+xk9Xbb9PfCswMWVh",
+    "email": "fernandezcarla251@gmail.com",
+    "descripcion": "para amantes de la música electrónica, djs y productores, compartir sets, tracks y eventos",
+    "etiquetas": "electrónica, dj, house, techno, trance, producción",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "poesía y escritura",
+    "enlace": "https://t.me/+CafdzxBM4W0xMGE5",
+    "email": "ismael698@gmail.com",
+    "descripcion": "espacio para poetas y escritores, compartir poemas, cuentos, reflexiones y crecer como creadores",
+    "etiquetas": "poesía, escritura, poemas, cuentos, literatura, creatividad",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "criptomonedas y web3",
+    "enlace": "https://t.me/+vX8R30tb4nw3MjEx",
+    "email": "martin389@gmail.com",
+    "descripcion": "comunidad cripto para hablar de bitcoin, ethereum, altcoins, nfts y el ecosistema web3",
+    "etiquetas": "crypto, bitcoin, ethereum, nft, web3, inversión",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "fitness y gym",
+    "enlace": "https://t.me/+pF8Em7X6svtmOGVh",
+    "email": "elenasoto98@gmail.com",
+    "descripcion": "grupo de entrenamiento y fitness, compartir rutinas, dietas, progreso y motivarse entre todos",
+    "etiquetas": "fitness, gym, entrenamiento, dieta, músculo, salud",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "fl studio y beats",
+    "enlace": "https://t.me/+NZhra70snIZhMmRh",
+    "email": "laurasoto@gmail.com",
+    "descripcion": "para productores musicales que usan fl studio, compartir beats, tutoriales y proyectos",
+    "etiquetas": "fl studio, beats, producción musical, daw, trap, instrumentales",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "moda y estilo",
+    "enlace": "https://t.me/+1JxcIQMrrTtmMGNh",
+    "email": "marialopez@gmail.com",
+    "descripcion": "comunidad de moda, outfits, tendencias y estilo personal para compartir looks y consejos",
+    "etiquetas": "moda, outfits, tendencias, ropa, estilo, fashion",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "wallpapers y fondos",
+    "enlace": "https://t.me/+jEWxJVhTXMgwZGZh",
+    "email": "emiliocastro@gmail.com",
+    "descripcion": "grupo para compartir fondos de pantalla, wallpapers 4k, arte y diseños para celular y pc",
+    "etiquetas": "wallpapers, fondos, 4k, diseño, arte, celular",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "salud y nutrición",
+    "enlace": "https://t.me/+pNNTKTKEcvEyYzZh",
+    "email": "danielafernandez631@gmail.com",
+    "descripcion": "espacio para hablar de nutrición, hábitos saludables, recetas fit y bienestar físico",
+    "etiquetas": "nutrición, salud, dieta, hábitos, fit, bienestar",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "rock en español",
+    "enlace": "https://t.me/+Y3npXO0xk-8yNzIx",
+    "email": "martinezfelipe949@gmail.com",
+    "descripcion": "para fans del rock en español, desde los clásicos hasta las bandas actuales, compartir música y conciertos",
+    "etiquetas": "rock, español, bandas, metal, punk, conciertos",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "noticias y actualidad",
+    "enlace": "https://t.me/+mZiL_2iHzlJiYjc5",
+    "email": "sotonatalia367@gmail.com",
+    "descripcion": "grupo para debatir noticias, política, economía y actualidad mundial con respeto y criterio",
+    "etiquetas": "noticias, política, economía, actualidad, debate, mundo",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "drag race y realities",
+    "enlace": "https://t.me/+j4pbD_FEhiY4Njdh",
+    "email": "ismaelmartinez@gmail.com",
+    "descripcion": "comunidad para fans de drag race, realities, talk shows y lo más viral de la televisión",
+    "etiquetas": "drag race, realities, televisión, famosos, entretenimiento, viral",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "psicología del amor",
+    "enlace": "https://t.me/+ws7cPlraZmE0M2Yx",
+    "email": "emiliopaez886@gmail.com",
+    "descripcion": "espacio para hablar de relaciones, amor, desamor, autoconocimiento y vínculos emocionales",
+    "etiquetas": "amor, relaciones, pareja, emociones, desamor, autoconocimiento",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "idiomas del mundo",
+    "enlace": "https://t.me/+b9wN8qEezBAwYWIx",
+    "email": "florespedro264@gmail.com",
+    "descripcion": "grupo para aprender y practicar distintos idiomas, encontrar compañeros de intercambio y recursos gratis",
+    "etiquetas": "idiomas, inglés, francés, alemán, japonés, intercambio",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "vallenato y cumbia",
+    "enlace": "https://t.me/+-0d8i_8nLfE4OTFh",
+    "email": "javiersilva644@gmail.com",
+    "descripcion": "para los amantes del vallenato, cumbia y música colombiana, compartir canciones y artistas",
+    "etiquetas": "vallenato, cumbia, colombia, música latina, acordeón, folclor",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "geek y cultura pop",
+    "enlace": "https://t.me/+51KCkuYotJxlZDcx",
+    "email": "blancomiguel421@gmail.com",
+    "descripcion": "comunidad geek para hablar de marvel, dc, star wars, videojuegos y toda la cultura pop",
+    "etiquetas": "geek, marvel, dc, star wars, cultura pop, videojuegos",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "empleo y freelance",
+    "enlace": "https://t.me/+xwjGzvGYYhg5ZGMx",
+    "email": "diego112@gmail.com",
+    "descripcion": "grupo para compartir ofertas de empleo, trabajos freelance, consejos laborales y oportunidades remotas",
+    "etiquetas": "empleo, freelance, trabajo, remoto, oportunidades, CV",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "filosofía y pensamiento",
+    "enlace": "https://t.me/+Nw-bI2iFz6szNGRh",
+    "email": "rodriguezana338@gmail.com",
+    "descripcion": "espacio para debatir filosofía, existencialismo, ética y las grandes preguntas de la humanidad",
+    "etiquetas": "filosofía, pensamiento, debate, ética, existencialismo, reflexión",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "cosplay y cultura otaku",
+    "enlace": "https://t.me/+0OtyTZGZMdliNjEx",
+    "email": "rodriguezirene648@gmail.com",
+    "descripcion": "para otakus y cosplayers, compartir disfraces, fanarts y eventos de anime y gaming",
+    "etiquetas": "cosplay, otaku, anime, fanart, convención, disfraz",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "películas de terror",
+    "enlace": "https://t.me/+-cqA5DmrnEhiMDIx",
+    "email": "ivanpaez@gmail.com",
+    "descripcion": "comunidad de terror para recomendar películas, series de miedo, hablar de teorías y sustos favoritos",
+    "etiquetas": "terror, horror, miedo, películas, series, suspenso",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "boleros y baladas",
+    "enlace": "https://t.me/+44_FY9SDuaNkNTMx",
+    "email": "ortizluis259@gmail.com",
+    "descripcion": "grupo para los amantes de los boleros, baladas románticas y la música del recuerdo",
+    "etiquetas": "boleros, baladas, romántica, recuerdo, clásicos, sentimientos",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "minecraft bedrock latam",
+    "enlace": "https://t.me/+QCpjKe-njE44NGMx",
+    "email": "carlosrojas@gmail.com",
+    "descripcion": "comunidad de minecraft bedrock para armar servidores, compartir seeds, builds y jugar juntos",
+    "etiquetas": "minecraft, bedrock, servidor, builds, survival, latinoamérica",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "debate y opinión",
+    "enlace": "https://t.me/+-KIQ151HIgBhY2Qx",
+    "email": "monicarodriguez@gmail.com",
+    "descripcion": "espacio libre para debatir temas de actualidad, opiniones, controversias y puntos de vista distintos",
+    "etiquetas": "debate, opinión, actualidad, controversia, libertad, análisis",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "running y maratón",
+    "enlace": "https://t.me/+p4_faCoR8fY0YjEx",
+    "email": "paula389@gmail.com",
+    "descripcion": "grupo para corredores, compartir entrenamientos, rutas, maratones y motivarse para correr más",
+    "etiquetas": "running, maratón, correr, entrenamiento, rutas, deporte",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "curiosidades del mundo",
+    "enlace": "https://t.me/+qGC05BrWCl1kYzBh",
+    "email": "paezoscar817@gmail.com",
+    "descripcion": "para los curiosos, compartir datos raros, hechos sorprendentes y todo lo que no sabías del mundo",
+    "etiquetas": "curiosidades, datos, hechos, ciencia, historia, conocimiento",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "emprendimiento digital",
+    "enlace": "https://t.me/+YE_TUyuINYwyZDQx",
+    "email": "silvafelipe629@gmail.com",
+    "descripcion": "comunidad para emprendedores digitales, negocios online, dropshipping, afiliados y monetización",
+    "etiquetas": "emprendimiento, digital, dropshipping, afiliados, ingresos, online",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "salsa dura y timba",
+    "enlace": "https://t.me/+t_XQ9BlSacMxZTg5",
+    "email": "vegabeatriz174@gmail.com",
+    "descripcion": "para los amantes de la salsa dura, timba cubana y el son, compartir música y eventos de baile",
+    "etiquetas": "salsa, timba, cubana, son, baile, latino",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "programación desde cero",
+    "enlace": "https://t.me/+l1VdwFeyk2o2N2Qx",
+    "email": "claudialopez@gmail.com",
+    "descripcion": "grupo para aprender programación desde cero, compartir recursos, dudas y proyectos de código",
+    "etiquetas": "programación, código, python, javascript, desarrollo, aprender",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "series turcas y doramas",
+    "enlace": "https://t.me/+tiddR3TK_b9iOWIx",
+    "email": "elena571@gmail.com",
+    "descripcion": "comunidad para fans de series turcas, doramas coreanos y dramas asiáticos, recomendaciones y spoilers",
+    "etiquetas": "doramas, series turcas, corea, drama, asiático, recomendaciones",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "astrología y tarot",
+    "enlace": "https://t.me/+-ztfoHO-d3Y2NzVh",
+    "email": "ricardofernandez67@gmail.com",
+    "descripcion": "grupo para hablar de astrología, signos, tarot, cartas y el universo espiritual",
+    "etiquetas": "astrología, tarot, signos, horóscopo, espiritualidad, cartas",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "lofi y música chill",
+    "enlace": "https://t.me/+YOj6mybXdvYzZmQx",
+    "email": "analopez@gmail.com",
+    "descripcion": "para los que aman la música lofi, chill, ambient y estudiar o relajarse con buenas vibras",
+    "etiquetas": "lofi, chill, ambient, relajar, estudiar, vibras",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "argentina conectada",
+    "enlace": "https://t.me/+XysBrKYfvQExMGVh",
+    "email": "martin268@gmail.com",
+    "descripcion": "comunidad argentina para charlar, compartir memes, noticias y todo lo que pasa en el país",
+    "etiquetas": "argentina, comunidad, memes, noticias, cultura, porteños",
+    "adultos": true,
+    "cualquier_pais": false
+  },
+  {
+    "nombre": "colombia en telegram",
+    "enlace": "https://t.me/+k1lfCC6Fs6diMTcx",
+    "email": "nataliarojas215@gmail.com",
+    "descripcion": "grupo para colombianos de todo el país, charlar, compartir cultura, música y hacer amigos",
+    "etiquetas": "colombia, comunidad, cultura, amigos, música, latinos",
+    "adultos": true,
+    "cualquier_pais": false
+  },
+  {
+    "nombre": "venezuela unida",
+    "enlace": "https://t.me/+Oa2A4qHufgAxZWIx",
+    "email": "emiliomartinez@gmail.com",
+    "descripcion": "espacio para venezolanos dentro y fuera del país, conectar, apoyarse y compartir experiencias",
+    "etiquetas": "venezuela, venezolanos, comunidad, diáspora, apoyo, cultura",
+    "adultos": true,
+    "cualquier_pais": false
+  },
+  {
+    "nombre": "españa chat general",
+    "enlace": "https://t.me/+sktDFFt0gqUxNzMx",
+    "email": "raul425@gmail.com",
+    "descripcion": "grupo para españoles y residentes en españa, hablar de todo, hacer amigos y pasar el rato",
+    "etiquetas": "españa, chat, amigos, cultura, comunidad, peninsulares",
+    "adultos": true,
+    "cualquier_pais": false
+  },
+  {
+    "nombre": "méxico todos juntos",
+    "enlace": "https://t.me/+leFxktPPGXs5MDMx",
+    "email": "gabriela280@gmail.com",
+    "descripcion": "comunidad mexicana para charlar, compartir memes, noticias y conectar con gente del país",
+    "etiquetas": "méxico, comunidad, memes, cultura, amigos, mexicanos",
+    "adultos": true,
+    "cualquier_pais": false
+  },
+  {
+    "nombre": "peru en linea",
+    "enlace": "https://t.me/+0xdVabLOA-1hY2Qx",
+    "email": "noeliamolina984@gmail.com",
+    "descripcion": "grupo para peruanos de todo el país y en el exterior, charlar y compartir lo mejor de perú",
+    "etiquetas": "perú, peruanos, comunidad, cultura, amigos, gastronómica",
+    "adultos": true,
+    "cualquier_pais": false
+  },
+  {
+    "nombre": "chile conecta",
+    "enlace": "https://t.me/+c7gZXvEdIzUwNDhh",
+    "email": "valentinavega@gmail.com",
+    "descripcion": "comunidad chilena para hacer amigos, hablar de actualidad y compartir lo mejor de la cultura chilena",
+    "etiquetas": "chile, chilenos, comunidad, amigos, cultura, actualidad",
+    "adultos": true,
+    "cualquier_pais": false
+  },
+  {
+    "nombre": "ecuador unido",
+    "enlace": "https://t.me/+VyR_G8PUKRsyZmZh",
+    "email": "rosa904@gmail.com",
+    "descripcion": "grupo para ecuatorianos dentro y fuera del país, conectar, apoyarse y hablar de todo",
+    "etiquetas": "ecuador, ecuatorianos, comunidad, cultura, amigos, diáspora",
+    "adultos": true,
+    "cualquier_pais": false
+  },
+  {
+    "nombre": "uruguay chat",
+    "enlace": "https://t.me/+o8kpjXvc1D43ZGI5",
+    "email": "molinaruben979@gmail.com",
+    "descripcion": "espacio para uruguayos, hablar de actualidad, fútbol, cultura y conectar con compatriotas",
+    "etiquetas": "uruguay, uruguayos, fútbol, comunidad, cultura, amigos",
+    "adultos": true,
+    "cualquier_pais": false
+  },
+  {
+    "nombre": "dominicanos online",
+    "enlace": "https://t.me/+alIMdr__qeNkZDYx",
+    "email": "lucialopez582@gmail.com",
+    "descripcion": "comunidad dominicana para compartir música, memes, cultura y conectar con gente del país",
+    "etiquetas": "dominicana, república dominicana, merengue, bachata, comunidad, cultura",
+    "adultos": true,
+    "cualquier_pais": false
+  },
+  {
+    "nombre": "cuba en telegram",
+    "enlace": "https://t.me/+dJucBsyummNmYmJh",
+    "email": "mariasoto@gmail.com",
+    "descripcion": "grupo para cubanos en la isla y en el exterior, compartir música, noticias y apoyarse entre todos",
+    "etiquetas": "cuba, cubanos, diáspora, música, comunidad, cultura",
+    "adultos": true,
+    "cualquier_pais": false
+  },
+  {
+    "nombre": "panamá conecta",
+    "enlace": "https://t.me/+4Rr8mOOwwcg5NmEx",
+    "email": "felipesoto387@gmail.com",
+    "descripcion": "comunidad panameña para hacer amigos, hablar de actualidad y compartir lo mejor del país",
+    "etiquetas": "panamá, panameños, comunidad, cultura, amigos, actualidad",
+    "adultos": true,
+    "cualquier_pais": false
+  },
+  {
+    "nombre": "costa rica activa",
+    "enlace": "https://t.me/+ny7Xy54RsJZmYmEx",
+    "email": "paezfernando875@gmail.com",
+    "descripcion": "grupo para costarricenses, compartir noticias, cultura tica, pura vida y hacer amigos",
+    "etiquetas": "costa rica, ticos, pura vida, comunidad, cultura, amigos",
+    "adultos": true,
+    "cualquier_pais": false
+  },
+  {
+    "nombre": "guatemala chat",
+    "enlace": "https://t.me/+SarFL6ZQGy00Yjlh",
+    "email": "natalialopez457@gmail.com",
+    "descripcion": "espacio para guatemaltecos, compartir cultura maya, actualidad, música y hacer nuevas amistades",
+    "etiquetas": "guatemala, guatemaltecos, cultura, maya, amigos, comunidad",
+    "adultos": true,
+    "cualquier_pais": false
+  },
+  {
+    "nombre": "honduras conectada",
+    "enlace": "https://t.me/+IfxgWTK2t0ZiNDkx",
+    "email": "castrogonzalo437@gmail.com",
+    "descripcion": "grupo hondureño para hablar de todo, compartir memes, música y conectar con compatriotas",
+    "etiquetas": "honduras, hondureños, comunidad, cultura, amigos, música",
+    "adultos": true,
+    "cualquier_pais": false
+  },
+  {
+    "nombre": "el salvador unido",
+    "enlace": "https://t.me/+Kc06Q7xX7vllMjAx",
+    "email": "beatriz410@gmail.com",
+    "descripcion": "comunidad salvadoreña para hacer amigos, hablar de actualidad y compartir lo mejor del país",
+    "etiquetas": "el salvador, salvadoreños, comunidad, cultura, amigos, actualidad",
+    "adultos": true,
+    "cualquier_pais": false
+  },
+  {
+    "nombre": "bolivia en red",
+    "enlace": "https://t.me/+Scfs6ZCbwd44NDZh",
+    "email": "martinezana11@gmail.com",
+    "descripcion": "grupo para bolivianos, compartir cultura andina, música, noticias y hacer conexiones nuevas",
+    "etiquetas": "bolivia, bolivianos, cultura andina, comunidad, amigos, música",
+    "adultos": true,
+    "cualquier_pais": false
+  },
+  {
+    "nombre": "paraguay chat oficial",
+    "enlace": "https://t.me/+xBxrgJ3erGkwY2Nh",
+    "email": "sergio260@gmail.com",
+    "descripcion": "espacio para paraguayos dentro y fuera del país, hablar de todo y conectar con compatriotas",
+    "etiquetas": "paraguay, paraguayos, comunidad, cultura, guaraní, amigos",
+    "adultos": true,
+    "cualquier_pais": false
+  },
+  {
+    "nombre": "fotos de naturaleza",
+    "enlace": "https://t.me/+3qeMbe2PYkA1Njhh",
+    "email": "molinalucia33@gmail.com",
+    "descripcion": "comunidad para compartir fotografías de naturaleza, paisajes, flora, fauna y el mundo natural",
+    "etiquetas": "naturaleza, fotografía, paisajes, flora, fauna, visual",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "cine clásico",
+    "enlace": "https://t.me/+KaM_FBMAFTM5ZjNh",
+    "email": "silvapaula48@gmail.com",
+    "descripcion": "grupo para cinéfilos que aman el cine clásico, blanco y negro, directores legendarios y obras maestras",
+    "etiquetas": "cine clásico, películas, directores, historia del cine, cinéfilo, arte",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "aprender piano",
+    "enlace": "https://t.me/+23ERT4swLQg4MTgx",
+    "email": "martinlopez@gmail.com",
+    "descripcion": "grupo para principiantes y avanzados que aprenden piano, compartir tips, partituras y videos",
+    "etiquetas": "piano, música, aprender, instrumento, partituras, clásica",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "decoración del hogar",
+    "enlace": "https://t.me/+bvSia2XoKIYzZjIx",
+    "email": "oscar853@gmail.com",
+    "descripcion": "para los amantes de la decoración, compartir ideas, tendencias, DIY y transformaciones del hogar",
+    "etiquetas": "decoración, hogar, DIY, interiorismo, tendencias, diseño",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "meditación guiada",
+    "enlace": "https://t.me/+bJn0RX-7bZM1ZTMx",
+    "email": "oscarortiz166@gmail.com",
+    "descripcion": "espacio para practicar meditación guiada, compartir audios, técnicas y experiencias de paz interior",
+    "etiquetas": "meditación, mindfulness, paz, respiración, chakras, bienestar",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "economía personal",
+    "enlace": "https://t.me/+dGbHCaQu0f1jYjUx",
+    "email": "noeliarojas819@gmail.com",
+    "descripcion": "grupo para aprender a manejar las finanzas personales, ahorrar, invertir y salir de deudas",
+    "etiquetas": "finanzas, ahorro, inversión, presupuesto, deudas, economía",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "videojuegos retro",
+    "enlace": "https://t.me/+C54BMekvBYtjMzQx",
+    "email": "paezcarla442@gmail.com",
+    "descripcion": "comunidad retrogamer para hablar de clásicos de snes, nes, ps1, sega y lo mejor del pasado",
+    "etiquetas": "retro, videojuegos, snes, ps1, sega, clásicos",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "humor negro y memes",
+    "enlace": "https://t.me/+IbgWeq3PRdk2ODlh",
+    "email": "aliciasilva@gmail.com",
+    "descripcion": "para los que tienen sentido del humor oscuro, memes de todo tipo y contenido para adultos",
+    "etiquetas": "humor negro, memes, dark humor, adultos, contenido, risas",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "series de netflix",
+    "enlace": "https://t.me/+qVRw5Ha1F7VmMTE5",
+    "email": "silvaluis672@gmail.com",
+    "descripcion": "grupo dedicado a hablar de lo mejor de netflix, recomendar series, debatir finales y spoilers",
+    "etiquetas": "netflix, series, recomendaciones, spoilers, estrenos, streaming",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "inversión en bolsa",
+    "enlace": "https://t.me/+3_UuKXIgxrA3ZmFh",
+    "email": "camilasoto@gmail.com",
+    "descripcion": "comunidad para inversores en bolsa, trading, acciones, fondos y análisis de mercados financieros",
+    "etiquetas": "bolsa, trading, acciones, inversión, mercados, finanzas",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "tatuajes y body art",
+    "enlace": "https://t.me/+MooZ59y7ZIRhNThh",
+    "email": "marcoslopez252@gmail.com",
+    "descripcion": "espacio para amantes de los tatuajes, compartir diseños, artistas, cuidados y recomendaciones",
+    "etiquetas": "tatuajes, body art, diseños, tattoo, artistas, skin",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "fútbol americano",
+    "enlace": "https://t.me/+a9UsmoNJat5lYmNh",
+    "email": "danielavega@gmail.com",
+    "descripcion": "para fans del fútbol americano y la nfl, hablar de equipos, superbowl y fantasy football",
+    "etiquetas": "nfl, fútbol americano, superbowl, fantasy, equipos, deporte",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "aprender guitarra",
+    "enlace": "https://t.me/+xbmY9ljwLhEwNzUx",
+    "email": "claudiasosa@gmail.com",
+    "descripcion": "grupo para guitarristas principiantes y avanzados, compartir acordes, tabs, tutoriales y canciones",
+    "etiquetas": "guitarra, acordes, tabs, música, aprender, instrumento",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "recetas saludables",
+    "enlace": "https://t.me/+iO8854ZAD2U0ZThh",
+    "email": "rodriguezmonica962@gmail.com",
+    "descripcion": "comunidad de cocina saludable, recetas fit, sin gluten, veganas y para una vida más sana",
+    "etiquetas": "recetas, saludable, fit, vegano, sin gluten, nutrición",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "basket y nba",
+    "enlace": "https://t.me/+1pOHM3DqspJkNDkx",
+    "email": "noeliarojas@gmail.com",
+    "descripcion": "grupo para fans del baloncesto y la nba, comentar partidos, jugadas y los mejores equipos",
+    "etiquetas": "basketball, nba, baloncesto, partidos, equipos, deporte",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "chat nocturno",
+    "enlace": "https://t.me/+H2lmxSNL0sw0OTY5",
+    "email": "nataliamolina@gmail.com",
+    "descripcion": "espacio para los que se quedan despiertos de noche, charlar, hacer amigos y pasar el tiempo",
+    "etiquetas": "noche, chat, amigos, insomnio, desvelo, conversación",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "dibujo tradicional",
+    "enlace": "https://t.me/+UgHLnxVi55E3ZGFh",
+    "email": "pablo682@gmail.com",
+    "descripcion": "comunidad de artistas que trabajan con lápiz, acuarela, carboncillo y técnicas tradicionales",
+    "etiquetas": "dibujo, acuarela, arte, lápiz, tradicional, ilustración",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "tenis y padel",
+    "enlace": "https://t.me/+TxApppdmdmRiZGYx",
+    "email": "laura400@gmail.com",
+    "descripcion": "grupo para jugadores de tenis y padel, compartir partidos, torneos, técnicas y buscar compañeros",
+    "etiquetas": "tenis, padel, deporte, raqueta, torneos, club",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "cómics y superhéroes",
+    "enlace": "https://t.me/+uvcGVc2IJW1kMjNh",
+    "email": "luciasosa5@gmail.com",
+    "descripcion": "para fanáticos de los cómics, marvel, dc, manga y todo el universo de los superhéroes",
+    "etiquetas": "cómics, superhéroes, marvel, dc, manga, geek",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "inteligencia artificial",
+    "enlace": "https://t.me/+A2BX7Q4H68YyYjJh",
+    "email": "andres434@gmail.com",
+    "descripcion": "comunidad para hablar de ia, chatgpt, midjourney, automatización y el futuro de la tecnología",
+    "etiquetas": "inteligencia artificial, ia, chatgpt, automatización, tecnología, futuro",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "deportes extremos",
+    "enlace": "https://t.me/+JKoCQ44k_sYxOTFh",
+    "email": "sofia840@gmail.com",
+    "descripcion": "para adrenalina lovers, skate, surf, escalada, parkour y todos los deportes extremos",
+    "etiquetas": "deportes extremos, skate, surf, escalada, parkour, adrenalina",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "lo mejor de tiktok",
+    "enlace": "https://t.me/+uuVMqiSwe9ViOWRh",
+    "email": "fernandoblanco@gmail.com",
+    "descripcion": "grupo para compartir videos virales de tiktok, tendencias, bailes y contenido entretenido",
+    "etiquetas": "tiktok, viral, tendencias, bailes, videos, entretenimiento",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "mundo sobrenatural",
+    "enlace": "https://t.me/+WOR3otKvPBg4Njk5",
+    "email": "fernandezjavier249@gmail.com",
+    "descripcion": "espacio para hablar de fenómenos paranormales, ovnis, conspiraciones y lo misterioso del mundo",
+    "etiquetas": "paranormal, ovnis, misterio, conspiraciones, sobrenatural, fenómenos",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "gastronomía internacional",
+    "enlace": "https://t.me/+i5FAP570sAQ4MDNh",
+    "email": "tomas66@gmail.com",
+    "descripcion": "para los amantes de la comida del mundo, explorar sabores, recetas internacionales y restaurantes",
+    "etiquetas": "gastronomía, comida, internacional, recetas, sabores, restaurantes",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "minecraft creativo",
+    "enlace": "https://t.me/+HpGWbiAj8pY4NmVh",
+    "email": "patriciapaez636@gmail.com",
+    "descripcion": "comunidad de minecraft modo creativo para compartir mega builds, ciudades y proyectos arquitectónicos",
+    "etiquetas": "minecraft, creativo, builds, arquitectura, ciudad, diseño",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "amigos de madrugada",
+    "enlace": "https://t.me/+XZWlFY389S80NDgx",
+    "email": "carla629@gmail.com",
+    "descripcion": "para los noctámbulos que quieren charlar, reír y hacer amigos en las horas más locas de la noche",
+    "etiquetas": "madrugada, noche, chat, amigos, insomnio, noctámbulos",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "canto y voz",
+    "enlace": "https://t.me/+KVjF22BHecc0Nzc5",
+    "email": "victor518@gmail.com",
+    "descripcion": "grupo para cantantes, aprender técnica vocal, compartir covers y apoyar talentos emergentes",
+    "etiquetas": "canto, voz, técnica vocal, covers, cantantes, talento",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "ciclismo urbano",
+    "enlace": "https://t.me/+o_PBiU8e8MEyYzQx",
+    "email": "felipegomez491@gmail.com",
+    "descripcion": "comunidad para ciclistas, compartir rutas, consejos de mantenimiento y salidas grupales en bici",
+    "etiquetas": "ciclismo, bicicleta, rutas, urbano, deporte, salidas",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "spanish learning",
+    "enlace": "https://t.me/+RcD2RaaqS3xiZjcx",
+    "email": "paeztomas921@gmail.com",
+    "descripcion": "grupo para extranjeros que aprenden español, practicar con nativos y mejorar el idioma",
+    "etiquetas": "español, aprender, idioma, práctica, nativos, intercambio",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "mundo del derecho",
+    "enlace": "https://t.me/+dTJdJQf_bohlMDIx",
+    "email": "carlasilva@gmail.com",
+    "descripcion": "comunidad de estudiantes y profesionales del derecho, compartir casos, leyes y oportunidades laborales",
+    "etiquetas": "derecho, leyes, abogados, jurídico, estudiantes, casos",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "voluntariado y causas",
+    "enlace": "https://t.me/+PQYtVgCFzCVhNGEx",
+    "email": "paulasoto853@gmail.com",
+    "descripcion": "espacio para conectar voluntarios, compartir causas sociales, proyectos humanitarios y hacer el bien",
+    "etiquetas": "voluntariado, causas, humanitario, social, comunidad, ayuda",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "historias de miedo",
+    "enlace": "https://t.me/+QwnHK-VFiT0wNjUx",
+    "email": "carmenperez727@gmail.com",
+    "descripcion": "para los amantes del terror y las historias de miedo, compartir cuentos, creepypastas y sustos",
+    "etiquetas": "terror, historias, creepypasta, miedo, sustos, cuentos",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "música de los 80 y 90",
+    "enlace": "https://t.me/+fzv2FgghUNxkNWI5",
+    "email": "noeliaflores150@gmail.com",
+    "descripcion": "grupo para nostálgicos que aman la música de los 80 y 90, rock, pop y los grandes éxitos",
+    "etiquetas": "80s, 90s, música, nostalgia, rock, pop",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "retos y desafíos",
+    "enlace": "https://t.me/+ZCq2UqvAoKE0YTU5",
+    "email": "lauragomez@gmail.com",
+    "descripcion": "comunidad para compartir retos físicos, mentales y creativos, superarse y motivar a otros",
+    "etiquetas": "retos, desafíos, superación, motivación, física, mental",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "arquitectura y urbanismo",
+    "enlace": "https://t.me/+oPmwwghUmQtmNjBh",
+    "email": "raul200@gmail.com",
+    "descripcion": "para arquitectos, diseñadores y amantes del espacio urbano, compartir proyectos y tendencias",
+    "etiquetas": "arquitectura, urbanismo, diseño, edificios, ciudad, planos",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "pokemon masters",
+    "enlace": "https://t.me/+ui7BwmUvKAg0YmUx",
+    "email": "pablorojas571@gmail.com",
+    "descripcion": "comunidad pokemon para intercambiar, competir, hablar de juegos, anime y la franquicia completa",
+    "etiquetas": "pokemon, gaming, intercambio, anime, competir, nintendo",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "maquillaje y beauty",
+    "enlace": "https://t.me/+-9ZJgn4Coe5jMzAx",
+    "email": "juanramirez@gmail.com",
+    "descripcion": "grupo de beauty para compartir looks, tutoriales de maquillaje, reseñas de productos y tendencias",
+    "etiquetas": "maquillaje, beauty, make up, tutoriales, productos, tendencias",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "historia universal",
+    "enlace": "https://t.me/+62C0KT46ANtjYWIx",
+    "email": "sosaana988@gmail.com",
+    "descripcion": "para apasionados de la historia, guerras, civilizaciones antiguas, personajes históricos y más",
+    "etiquetas": "historia, civilizaciones, guerras, antigua, personajes, cultura",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "cine latinoamericano",
+    "enlace": "https://t.me/+CC7Ye8Lq9lVkMGIx",
+    "email": "rojaspaula818@gmail.com",
+    "descripcion": "comunidad del cine hecho en latinoamérica, directores, películas y el arte cinematográfico regional",
+    "etiquetas": "cine, latinoamérica, películas, directores, arte, regional",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "plantas y jardín",
+    "enlace": "https://t.me/+_914O3wu7VIxODlh",
+    "email": "valentinaortiz309@gmail.com",
+    "descripcion": "grupo para amantes de las plantas, compartir cuidados, suculentas, jardines y consejos de cultivo",
+    "etiquetas": "plantas, jardín, suculentas, cultivo, naturaleza, verde",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "generación z chat",
+    "enlace": "https://t.me/+trRpL_SERX5iYjIx",
+    "email": "patriciafernandez342@gmail.com",
+    "descripcion": "espacio para la generación z, hablar de tendencias, internet, cultura digital y lo que nos define",
+    "etiquetas": "generación z, tendencias, digital, internet, cultura, jóvenes",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "boxeo y mma",
+    "enlace": "https://t.me/+Dm1bvOPWofhjMzE5",
+    "email": "victor477@gmail.com",
+    "descripcion": "para fans del boxeo y las mma, comentar peleas, técnicas, entrenamiento y los mejores luchadores",
+    "etiquetas": "boxeo, mma, ufc, lucha, peleas, deporte",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "idioma japonés",
+    "enlace": "https://t.me/+ZHuA0av2aqE3ZmVh",
+    "email": "andresgomez470@gmail.com",
+    "descripcion": "grupo para aprender japonés, practicar hiragana, katakana, kanji y la cultura japonesa",
+    "etiquetas": "japonés, idioma, hiragana, kanji, japón, cultura",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "canciones en inglés",
+    "enlace": "https://t.me/+96l6Fr0xd-40NGIx",
+    "email": "gabriela464@gmail.com",
+    "descripcion": "para los que aman la música en inglés, pop, rock, rnb y todos los géneros anglosajones",
+    "etiquetas": "música, inglés, pop, rock, rnb, canciones",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "skateboarding",
+    "enlace": "https://t.me/+0k28oDWwmTRkMTRh",
+    "email": "valentinaortiz@gmail.com",
+    "descripcion": "comunidad de skaters para compartir tricks, spots, videos y la cultura del skateboarding",
+    "etiquetas": "skate, skateboarding, tricks, spots, cultura, deporte",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "fotografía con celular",
+    "enlace": "https://t.me/+3c-qpw9x5cdjMjVh",
+    "email": "aliciapaez@gmail.com",
+    "descripcion": "grupo para sacarle el máximo al celular, técnicas de foto mobile, edición y composición",
+    "etiquetas": "fotografía, móvil, celular, edición, composición, mobile",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "motivación diaria",
+    "enlace": "https://t.me/+dYPDiNGI-BU2MDkx",
+    "email": "anaperez626@gmail.com",
+    "descripcion": "espacio para compartir frases, historias y reflexiones que te motiven a seguir adelante cada día",
+    "etiquetas": "motivación, frases, reflexiones, superación, positivo, fuerza",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "web series y youtubers",
+    "enlace": "https://t.me/+6RHe5KybRdAxYjkx",
+    "email": "claudiacastro@gmail.com",
+    "descripcion": "grupo para hablar de creadores de contenido, youtubers, twitch streamers y web series favoritas",
+    "etiquetas": "youtube, youtubers, twitch, streamers, contenido, web series",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "nft y arte digital",
+    "enlace": "https://t.me/+6eOZzSJs4fwxZjY5",
+    "email": "ana765@gmail.com",
+    "descripcion": "comunidad de nfts y arte digital, para crear, vender y coleccionar obras en el mundo web3",
+    "etiquetas": "nft, arte digital, web3, blockchain, coleccionar, cripto",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "surf y playa",
+    "enlace": "https://t.me/+G_TxFgkrc5BkM2Rh",
+    "email": "danielafernandez@gmail.com",
+    "descripcion": "para los que aman el surf, la playa, el mar y el estilo de vida costero, compartir spots y videos",
+    "etiquetas": "surf, playa, mar, olas, estilo de vida, deporte",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "maratón de series",
+    "enlace": "https://t.me/+bxW6O25EDyxkZjIx",
+    "email": "marcos977@gmail.com",
+    "descripcion": "para los que se pasan el día viendo series, hablar de temporadas, personajes y maratones favoritos",
+    "etiquetas": "series, maratón, temporadas, personajes, binge watching, streaming",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "compra venta latina",
+    "enlace": "https://t.me/+sCE-TuRRhHhjYTZh",
+    "email": "felipemolina339@gmail.com",
+    "descripcion": "grupo para comprar y vender productos entre latinos, ropa, tecnología, accesorios y más",
+    "etiquetas": "compra venta, mercado, productos, ropa, tecnología, intercambio",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "programación web",
+    "enlace": "https://t.me/+x3FAN0TgI4liMTEx",
+    "email": "vegatomas394@gmail.com",
+    "descripcion": "comunidad de desarrolladores web para compartir proyectos, aprender html, css, javascript y frameworks",
+    "etiquetas": "web, programación, html, css, javascript, desarrollo",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "teatro y actuación",
+    "enlace": "https://t.me/+qs65q163zHA4M2Fh",
+    "email": "fernando235@gmail.com",
+    "descripcion": "espacio para actores, directores y amantes del teatro, compartir experiencias, obras y castings",
+    "etiquetas": "teatro, actuación, obras, actores, casting, arte escénico",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "ciencia ficción",
+    "enlace": "https://t.me/+BXAclp_vpfM3NGMx",
+    "email": "nataliablanco@gmail.com",
+    "descripcion": "para fans de la ciencia ficción, hablar de libros, películas, series y el futuro imaginado",
+    "etiquetas": "ciencia ficción, scifi, libros, películas, series, futuro",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "coaching y liderazgo",
+    "enlace": "https://t.me/+ACsIrdpaFV8xODQx",
+    "email": "fernandezcarmen2@gmail.com",
+    "descripcion": "grupo para líderes y coaches, compartir técnicas, metodologías y experiencias de desarrollo humano",
+    "etiquetas": "coaching, liderazgo, desarrollo humano, equipo, metodologías, éxito",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "juegos de mesa",
+    "enlace": "https://t.me/+_4HPJuYI-x8yMTZh",
+    "email": "javiertorres696@gmail.com",
+    "descripcion": "comunidad de juegos de mesa para compartir recomendaciones, reseñas y armar partidas online o presenciales",
+    "etiquetas": "juegos de mesa, boardgames, ajedrez, dados, cartas, juego",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "memes del trabajo",
+    "enlace": "https://t.me/+V_9rHwFodBUyMTFh",
+    "email": "gonzalorojas211@gmail.com",
+    "descripcion": "para los que sobreviven el trabajo gracias al humor, memes laborales, jefes y situaciones del office",
+    "etiquetas": "trabajo, memes, humor, oficina, jefes, laboral",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "documentales y aprender",
+    "enlace": "https://t.me/+cVTleGSYgfkzODcx",
+    "email": "ramirezelena962@gmail.com",
+    "descripcion": "grupo para compartir documentales, aprender sobre ciencia, historia, naturaleza y el mundo real",
+    "etiquetas": "documentales, aprender, ciencia, historia, naturaleza, conocimiento",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "emprendimiento femenino",
+    "enlace": "https://t.me/+ka0JphTS6eQ0ODkx",
+    "email": "gonzaloortiz629@gmail.com",
+    "descripcion": "espacio para mujeres emprendedoras, compartir negocios, consejos, inspiración y apoyarse mutuamente",
+    "etiquetas": "emprendimiento, mujeres, negocios, feminismo, inspiración, comunidad",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "futbol sala y pichanga",
+    "enlace": "https://t.me/+OgESpjjEkzpkOTgx",
+    "email": "fernandoperez@gmail.com",
+    "descripcion": "para los que juegan fútbol sala, pichanga o picadito, armar equipos, canchas y más",
+    "etiquetas": "futsal, pichanga, fútbol, equipo, cancha, deporte",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "videollamadas y conectar",
+    "enlace": "https://t.me/+GzG8cABJSYQ4ODUx",
+    "email": "claudialopez596@gmail.com",
+    "descripcion": "grupo para hacer amigos por videollamada, conocer gente nueva de forma más personal y directa",
+    "etiquetas": "videollamada, amigos, conocer gente, conectar, chat, virtual",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "mundo fitness femenino",
+    "enlace": "https://t.me/+exbG9Tm7f9U1MzI5",
+    "email": "fernandodiaz344@gmail.com",
+    "descripcion": "espacio para mujeres que entrenan, compartir rutinas, dietas, progreso físico y motivación",
+    "etiquetas": "fitness, mujeres, entrenamiento, dieta, rutinas, salud",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "tecnología apple",
+    "enlace": "https://t.me/+AXj6BT76iMgwODQx",
+    "email": "paula462@gmail.com",
+    "descripcion": "comunidad apple para hablar de iphone, mac, ipad, ios y todo el ecosistema de la manzana",
+    "etiquetas": "apple, iphone, mac, ios, ipad, tecnología",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "cine de animación",
+    "enlace": "https://t.me/+GEBumRHgsKtjZTcx",
+    "email": "ireneperez@gmail.com",
+    "descripcion": "para los que aman la animación, pixar, ghibli, disney y las mejores películas animadas del mundo",
+    "etiquetas": "animación, pixar, ghibli, disney, películas, arte",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "bachata sensual",
+    "enlace": "https://t.me/+NXPT6o_IsIE0N2Mx",
+    "email": "carmenrodriguez694@gmail.com",
+    "descripcion": "grupo para amantes de la bachata sensual moderna, compartir videos, eventos y academias de baile",
+    "etiquetas": "bachata sensual, baile, pareja, música, eventos, latinos",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "humor latinoamericano",
+    "enlace": "https://t.me/+ZsqUNYDPCTM0ZTAx",
+    "email": "oscar589@gmail.com",
+    "descripcion": "los mejores chistes, memes y humor hecho por y para latinos, reír sin filtros ni fronteras",
+    "etiquetas": "humor, latinos, chistes, memes, risas, comedia",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "series turcas fans",
+    "enlace": "https://t.me/+NWFiniXMKZZkODEx",
+    "email": "noeliablanco156@gmail.com",
+    "descripcion": "comunidad de fans de novelas y series turcas, hablar de actores, tramas y los mejores momentos",
+    "etiquetas": "series turcas, novelas, actores, drama, turquía, fans",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "recetas veganas",
+    "enlace": "https://t.me/+BHTuQQfDF6Q2NGJh",
+    "email": "tomasmartinez@gmail.com",
+    "descripcion": "grupo vegano para compartir recetas, restaurantes, productos y el estilo de vida plant-based",
+    "etiquetas": "vegano, plant-based, recetas, alimentación, cruelty free, salud",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "gamers en español",
+    "enlace": "https://t.me/+A7r0Qs0mJhIyMzkx",
+    "email": "oscar456@gmail.com",
+    "descripcion": "comunidad gamer hispanohablante para hablar de todos los juegos, consolas, pc y noticias gaming",
+    "etiquetas": "gaming, español, videojuegos, consolas, pc, comunidad",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "contabilidad y finanzas",
+    "enlace": "https://t.me/+0A0oAI6QroxmOTJh",
+    "email": "martinezemilio11@gmail.com",
+    "descripcion": "grupo para contadores, estudiantes de finanzas y emprendedores, compartir recursos y dudas fiscales",
+    "etiquetas": "contabilidad, finanzas, impuestos, fiscal, estudiantes, recursos",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "cuentos y microficción",
+    "enlace": "https://t.me/+DpXe2jCJpqgxNGVh",
+    "email": "fernandezvictor713@gmail.com",
+    "descripcion": "espacio creativo para compartir cuentos cortos, microficción y escritura creativa entre autores",
+    "etiquetas": "cuentos, microficción, escritura, creatividad, autores, relatos",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "hip hop latino underground",
+    "enlace": "https://t.me/+yo0JUhRjav45Nzlh",
+    "email": "diegofernandez917@gmail.com",
+    "descripcion": "para fans del hip hop underground latino, raperos independientes, letras y la cultura del mic",
+    "etiquetas": "hip hop, underground, rap, latino, letras, cultura",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "tenis de mesa y ping pong",
+    "enlace": "https://t.me/+muTTyNF96ng0ZDk5",
+    "email": "luisfernandez242@gmail.com",
+    "descripcion": "comunidad de ping pong y tenis de mesa, compartir técnicas, torneos y buscar rivales",
+    "etiquetas": "ping pong, tenis de mesa, deporte, torneos, técnica, rivales",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "marketing de contenidos",
+    "enlace": "https://t.me/+wyqy4dwlWug3ZjRh",
+    "email": "sofiaperez990@gmail.com",
+    "descripcion": "grupo para creadores de contenido digital, blogs, podcasts y estrategias de marketing de contenidos",
+    "etiquetas": "contenido, marketing, blog, podcast, creadores, digital",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "memes anime",
+    "enlace": "https://t.me/+AxKv_l5Iv4kwZGRh",
+    "email": "carlospaez@gmail.com",
+    "descripcion": "los mejores memes de anime, humor otaku y contenido gracioso del mundo de la animación japonesa",
+    "etiquetas": "memes, anime, humor, otaku, japón, risas",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "comunidad lgbtq",
+    "enlace": "https://t.me/+N-IuMtPai09jODlh",
+    "email": "raulperez893@gmail.com",
+    "descripcion": "espacio seguro e inclusivo para la comunidad lgbtq, hablar con libertad, hacer amigos y apoyarse",
+    "etiquetas": "lgbtq, inclusión, diversidad, comunidad, amigos, orgullo",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "astrofotografía",
+    "enlace": "https://t.me/+4ChQ8rjxp2M3YjUx",
+    "email": "pablorojas@gmail.com",
+    "descripcion": "para fotógrafos del espacio, compartir imágenes del cielo nocturno, estrellas, luna y planetas",
+    "etiquetas": "astrofotografía, espacio, estrellas, luna, telescopio, fotografía",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "debate político",
+    "enlace": "https://t.me/+OnS9wnmMQX9lODEx",
+    "email": "monica785@gmail.com",
+    "descripcion": "grupo para debatir política latinoamericana y mundial con respeto, argumentos y criterio",
+    "etiquetas": "política, debate, latinoamérica, democracia, opinión, análisis",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "voleibol lovers",
+    "enlace": "https://t.me/+MQdYOilrmIAzYmFh",
+    "email": "felipecastro158@gmail.com",
+    "descripcion": "comunidad de voleibol, beach volley y seguimiento de ligas y torneos internacionales",
+    "etiquetas": "voleibol, beach volley, deporte, torneos, ligas, equipo",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "estudiantes universitarios",
+    "enlace": "https://t.me/+ZOCwg8xXknw3YWUx",
+    "email": "emilio586@gmail.com",
+    "descripcion": "grupo para universitarios de toda latinoamérica, compartir apuntes, dudas, experiencias y hacer amigos",
+    "etiquetas": "universidad, estudiantes, apuntes, materias, vida universitaria, amigos",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "montañismo y trekking",
+    "enlace": "https://t.me/+aqmNQMx1iN8yNDAx",
+    "email": "raulrodriguez577@gmail.com",
+    "descripcion": "para amantes del montañismo, trekking y senderismo, compartir rutas, equipamiento y aventuras",
+    "etiquetas": "montañismo, trekking, senderismo, rutas, aventura, naturaleza",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "inglés para negocios",
+    "enlace": "https://t.me/+6C5RLD_DpI0yODE5",
+    "email": "aliciapaez165@gmail.com",
+    "descripcion": "grupo para aprender inglés de negocios, presentaciones, correos formales y vocabulario corporativo",
+    "etiquetas": "inglés, negocios, corporativo, vocabulario, presentaciones, formal",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "aficionados al ajedrez",
+    "enlace": "https://t.me/+Jxs7nLr5BtZkOWFh",
+    "email": "marcoslopez@gmail.com",
+    "descripcion": "comunidad ajedrecista para compartir partidas, análisis, aperturas y mejorar juntos el juego ciencia",
+    "etiquetas": "ajedrez, partidas, aperturas, análisis, táctica, estrategia",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "frases y reflexiones",
+    "enlace": "https://t.me/+I8REuYBUqaUyYTEx",
+    "email": "perezalicia429@gmail.com",
+    "descripcion": "espacio para compartir frases motivadoras, reflexiones profundas y pensamientos que inspiran el alma",
+    "etiquetas": "frases, reflexiones, motivación, inspiración, pensamientos, alma",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "electricidad y electrónica",
+    "enlace": "https://t.me/+W-Q8v3m16Rs1MGEx",
+    "email": "noeliarodriguez@gmail.com",
+    "descripcion": "grupo técnico para electricistas y electrónicos, compartir circuitos, proyectos y solucionar problemas",
+    "etiquetas": "electricidad, electrónica, circuitos, técnico, proyectos, arduino",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "networking profesional",
+    "enlace": "https://t.me/+QLyxPGNuPbk1YTgx",
+    "email": "rubenflores@gmail.com",
+    "descripcion": "grupo para hacer networking, conectar profesionales, oportunidades laborales y colaboraciones",
+    "etiquetas": "networking, profesional, trabajo, colaboración, contactos, carrera",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "true crime en español",
+    "enlace": "https://t.me/+KKg0ONE4j3wwZTYx",
+    "email": "victor862@gmail.com",
+    "descripcion": "comunidad true crime, hablar de casos criminales, documentales, podcasts y misterios sin resolver",
+    "etiquetas": "true crime, crimen, casos, misterio, documental, podcast",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "ecología y medio ambiente",
+    "enlace": "https://t.me/+NeCBz_N78pg2OWEx",
+    "email": "emiliopaez@gmail.com",
+    "descripcion": "grupo para activistas y amantes del medio ambiente, compartir noticias, proyectos y conciencia ecológica",
+    "etiquetas": "ecología, medio ambiente, sostenibilidad, activismo, verde, planeta",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "streaming y obs",
+    "enlace": "https://t.me/+VNM0_p7g6e4yNTlh",
+    "email": "ruben723@gmail.com",
+    "descripcion": "para streamers y creadores de contenido en vivo, tips de obs, cámara, micrófono y audiencia",
+    "etiquetas": "streaming, obs, twitch, youtube live, setup, contenido",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "cuidado capilar",
+    "enlace": "https://t.me/+VvpvHSMBzU8xMDlh",
+    "email": "martinezbeatriz617@gmail.com",
+    "descripcion": "grupo para el cuidado del cabello, rutinas capilares, productos, tratamientos y tips de estilismo",
+    "etiquetas": "cabello, capilar, rutinas, productos, tratamientos, estilismo",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "padres y madres modernos",
+    "enlace": "https://t.me/+19rAVoX9KpcyYmRh",
+    "email": "javiersosa@gmail.com",
+    "descripcion": "espacio para padres que quieren criar con consciencia, compartir experiencias, dudas y consejos",
+    "etiquetas": "padres, madres, crianza, hijos, familia, consejos",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "amigos por siempre",
+    "enlace": "https://t.me/+dL6M0-bFNJw0Zjhh",
+    "email": "rosaortiz7@gmail.com",
+    "descripcion": "grupo para hacer amistades genuinas, largas y duraderas, conocer personas de corazón en telegram",
+    "etiquetas": "amigos, amistad, genuino, conocer gente, telegram, comunidad",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "todo sobre android",
+    "enlace": "https://t.me/+cBONzkecZwRjMzZh",
+    "email": "camila217@gmail.com",
+    "descripcion": "comunidad android para compartir tips, apps, roms, root y todo sobre el sistema operativo de google",
+    "etiquetas": "android, apps, root, rom, google, tecnología",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "podcast en español",
+    "enlace": "https://t.me/+40U5IbhdHfs1ZjIx",
+    "email": "martinortiz994@gmail.com",
+    "descripcion": "grupo para escuchas y creadores de podcasts en español, recomendaciones, episodios y plataformas",
+    "etiquetas": "podcast, audio, español, creadores, episodios, spotify",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "astronomía amateur",
+    "enlace": "https://t.me/+1qDjW8djFyNiOWFh",
+    "email": "mariasoto924@gmail.com",
+    "descripcion": "para aficionados a la astronomía, compartir observaciones, eventos celestes, eclipses y planetas",
+    "etiquetas": "astronomía, telescopio, planetas, estrellas, eclipses, espacio",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "danza contemporánea",
+    "enlace": "https://t.me/+AGx1REtzCskzOTYx",
+    "email": "luis118@gmail.com",
+    "descripcion": "comunidad de bailarines de danza contemporánea, compartir coreografías, clases y eventos",
+    "etiquetas": "danza, contemporánea, baile, coreografía, arte, movimiento",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "mundo del café",
+    "enlace": "https://t.me/+kxV93oeZ5P84MjJh",
+    "email": "sergiolopez@gmail.com",
+    "descripcion": "para los amantes del café, baristas, métodos de preparación, variedades y cultura cafetera",
+    "etiquetas": "café, barista, espresso, métodos, cultura, aroma",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "inversión inmobiliaria",
+    "enlace": "https://t.me/+xLuFMIHU6SJlNzgx",
+    "email": "monicasosa@gmail.com",
+    "descripcion": "grupo para inversores en bienes raíces, compartir oportunidades, estrategias y el mercado inmobiliario",
+    "etiquetas": "inmobiliaria, bienes raíces, inversión, propiedades, mercado, rentabilidad",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "ilustración y comic",
+    "enlace": "https://t.me/+cJKXYPriJVcyNDMx",
+    "email": "gomezhector5@gmail.com",
+    "descripcion": "comunidad de ilustradores y artistas de cómic, compartir páginas, personajes y proyectos gráficos",
+    "etiquetas": "ilustración, cómic, arte, personajes, gráfico, narrativa visual",
+    "adultos": false,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "reiki y energías",
+    "enlace": "https://t.me/+75UilCtYyxQ2YjFh",
+    "email": "patriciacastro@gmail.com",
+    "descripcion": "espacio para practicantes de reiki, energías, chakras y terapias alternativas de bienestar",
+    "etiquetas": "reiki, chakras, energía, terapias, alternativas, bienestar",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "gaming móvil",
+    "enlace": "https://t.me/+nmKQ-mQARwo0NTY5",
+    "email": "sosapablo847@gmail.com",
+    "descripcion": "comunidad de mobile gaming, clash royale, clash of clans, pubg mobile y los mejores juegos del celular",
+    "etiquetas": "mobile gaming, clash royale, pubg, celular, android, ios",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "humor y risas diarias",
+    "enlace": "https://t.me/+jdenGGsgNNAwZDM5",
+    "email": "sosacarmen900@gmail.com",
+    "descripcion": "el mejor humor diario para comenzar el día con una sonrisa, memes, chistes y contenido gracioso",
+    "etiquetas": "humor, risas, memes, chistes, gracioso, entretenimiento",
+    "adultos": true,
+    "cualquier_pais": true
+  },
+  {
+    "nombre": "chicas empoderadas",
+    "enlace": "https://t.me/+WygijwrdSNhlYWVh",
+    "email": "sosamiguel708@gmail.com",
+    "descripcion": "espacio para mujeres que se apoyan, comparten experiencias, superación personal y se empoderan juntas",
+    "etiquetas": "mujeres, empoderamiento, sororidad, apoyo, superación, comunidad",
+    "adultos": false,
     "cualquier_pais": true
   }
 ]
